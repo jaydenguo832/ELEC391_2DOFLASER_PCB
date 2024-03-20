@@ -1,0 +1,1026 @@
+Added Component: Designator=AND1(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND2(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND3(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND4(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND5(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=AND6(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN74F08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/cd74hct08.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=C6(Cap2.54mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C7(Cap2.54mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C8(Cap2.54mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=C9(Cap2.54mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "RAD-0.3"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "100pF"; VariantName = "[No Variations]"
+Added Component: Designator=Clock(4Lead Osc_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ecsxtal.com/store/pdf/ecs_100.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "R38"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DecIn(HDR2X4_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DecOut(HDR2X2_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF1(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF2(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF3(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF4(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF6(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF7(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF8(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF9(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF10(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF11(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF12(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF13(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF14(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF15(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF16(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF17(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=DFF18(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74f74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://www.ti.com/lit/ds/symlink/sn74hct74.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Oct-1993"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Jun-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NOT1(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74ls04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M74HCT04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Mar-1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=NOT2(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/sn74ls04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M74HCT04.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "Mar-1988"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OR1(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN54F32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M74HCT32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OR2(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN54F32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M74HCT32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=OR3(DIP14_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Manufacturer Link"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://www.ti.com/"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2Description"; Value = "Datasheet"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink2URL"; Value = "http://www-s.ti.com/sc/ds/SN54F32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink3URL"; Value = "http://media.digikey.com/pdf/Data%20Sheets/ST%20Microelectronics%20PDFS/M74HCT32.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DatasheetVersion"; Value = "May-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "04-Mar-2005"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Stylized 3D Model Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "DIP; 14 Leads; Row Spacing 7.62 mm; Pitch 2.54 mm"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "N014"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageVersion"; Value = "Oct-1995"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=R5(Res10mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R6(Res10mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R7(Res10mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Added Component: Designator=R8(Res10mm_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "29-May-2009"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "IPC-7351 Footprint Added."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageDescription"; Value = "Chip Resistor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "J1-0603"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "8-Jun-2000"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1K"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin 5V_LED-1
+Add Pin To Net: Unknown Pin: Pin 5V_LED-2
+Add Pin To Net: Unknown Pin: Pin 5VReg-1
+Add Pin To Net: Unknown Pin: Pin 5VReg-2
+Add Pin To Net: Unknown Pin: Pin 5VReg-3
+Add Pin To Net: Unknown Pin: Pin 12V_LED-1
+Add Pin To Net: Unknown Pin: Pin 12V_LED-2
+Add Pin To Net: Unknown Pin: Pin 12VIN-1
+Add Pin To Net: Unknown Pin: Pin 12VIN-2
+Add Pin To Net: Unknown Pin: Pin 12VIN-3
+Add Pin To Net: Unknown Pin: Pin 12VReg-1
+Add Pin To Net: Unknown Pin: Pin 12VReg-2
+Add Pin To Net: Unknown Pin: Pin 12VReg-3
+Add Pin To Net: Unknown Pin: Pin 12VSW-1
+Add Pin To Net: Unknown Pin: Pin 12VSW-2
+Add Pin To Net: Unknown Pin: Pin 18VIN-1
+Add Pin To Net: Unknown Pin: Pin 18VIN-2
+Add Pin To Net: Unknown Pin: Pin 18VSW-1
+Add Pin To Net: Unknown Pin: Pin 18VSW-2
+Add Pin To Net: Unknown Pin: Pin AccPWR-1
+Add Pin To Net: Unknown Pin: Pin AccPWR-2
+Add Pin To Net: Unknown Pin: Pin AccPWR-3
+Add Pin To Net: Unknown Pin: Pin AccPWR-4
+Added Pin To Net: NetName=Enc1A Pin=AND1-1
+Added Pin To Net: NetName=Enc1B Pin=AND1-2
+Added Pin To Net: NetName=NetAND1_3 Pin=AND1-3
+Added Pin To Net: NetName=Enc1A Pin=AND1-4
+Added Pin To Net: NetName=NetAND1_5 Pin=AND1-5
+Added Pin To Net: NetName=NetAND1_6 Pin=AND1-6
+Added Pin To Net: NetName=GND Pin=AND1-7
+Added Pin To Net: NetName=NetAND1_8 Pin=AND1-8
+Added Pin To Net: NetName=NetAND1_9 Pin=AND1-9
+Added Pin To Net: NetName=Enc1B Pin=AND1-10
+Added Pin To Net: NetName=NetAND1_11 Pin=AND1-11
+Added Pin To Net: NetName=NetAND1_12 Pin=AND1-12
+Added Pin To Net: NetName=NetAND1_13 Pin=AND1-13
+Added Pin To Net: NetName=+5 Pin=AND1-14
+Added Pin To Net: NetName=NetAND2_3 Pin=AND2-3
+Added Pin To Net: NetName=NetAND2_6 Pin=AND2-6
+Added Pin To Net: NetName=GND Pin=AND2-7
+Added Pin To Net: NetName=NetAND2_8 Pin=AND2-8
+Added Pin To Net: NetName=NetAND2_11 Pin=AND2-11
+Added Pin To Net: NetName=+5 Pin=AND2-14
+Added Pin To Net: NetName=NetAND3_3 Pin=AND3-3
+Added Pin To Net: NetName=NetAND3_6 Pin=AND3-6
+Added Pin To Net: NetName=GND Pin=AND3-7
+Added Pin To Net: NetName=NetAND3_8 Pin=AND3-8
+Added Pin To Net: NetName=NetAND3_11 Pin=AND3-11
+Added Pin To Net: NetName=+5 Pin=AND3-14
+Added Pin To Net: NetName=Enc2A Pin=AND4-1
+Added Pin To Net: NetName=Enc2B Pin=AND4-2
+Added Pin To Net: NetName=Enc2A Pin=AND4-4
+Added Pin To Net: NetName=GND Pin=AND4-7
+Added Pin To Net: NetName=Enc2B Pin=AND4-10
+Added Pin To Net: NetName=+5 Pin=AND4-14
+Added Pin To Net: NetName=GND Pin=AND5-7
+Added Pin To Net: NetName=+5 Pin=AND5-14
+Added Pin To Net: NetName=GND Pin=AND6-7
+Added Pin To Net: NetName=+5 Pin=AND6-14
+Add Pin To Net: Unknown Pin: Pin BT1-1
+Add Pin To Net: Unknown Pin: Pin BT1-2
+Add Pin To Net: Unknown Pin: Pin BT2-1
+Add Pin To Net: Unknown Pin: Pin BT2-2
+Add Pin To Net: Unknown Pin: Pin BT3-1
+Add Pin To Net: Unknown Pin: Pin BT3-2
+Add Pin To Net: Unknown Pin: Pin C1-1
+Add Pin To Net: Unknown Pin: Pin C1-2
+Add Pin To Net: Unknown Pin: Pin C2-1
+Add Pin To Net: Unknown Pin: Pin C2-2
+Add Pin To Net: Unknown Pin: Pin C3-1
+Add Pin To Net: Unknown Pin: Pin C3-2
+Add Pin To Net: Unknown Pin: Pin C4-1
+Add Pin To Net: Unknown Pin: Pin C4-2
+Add Pin To Net: Unknown Pin: Pin C5-1
+Add Pin To Net: Unknown Pin: Pin C5-2
+Added Pin To Net: NetName=GND Pin=C6-2
+Added Pin To Net: NetName=GND Pin=C7-2
+Added Pin To Net: NetName=GND Pin=C8-2
+Added Pin To Net: NetName=GND Pin=C9-2
+Added Pin To Net: NetName=GND Pin=Clock-7
+Added Pin To Net: NetName=CLK Pin=Clock-8
+Added Pin To Net: NetName=+5 Pin=Clock-14
+Add Pin To Net: Unknown Pin: Pin D1-1
+Add Pin To Net: Unknown Pin: Pin D1-2
+Add Pin To Net: Unknown Pin: Pin D2-1
+Add Pin To Net: Unknown Pin: Pin D2-2
+Add Pin To Net: Unknown Pin: Pin D3-1
+Add Pin To Net: Unknown Pin: Pin D3-2
+Add Pin To Net: Unknown Pin: Pin D4-1
+Add Pin To Net: Unknown Pin: Pin D4-2
+Add Pin To Net: Unknown Pin: Pin D5-1
+Add Pin To Net: Unknown Pin: Pin D5-2
+Add Pin To Net: Unknown Pin: Pin D6-1
+Add Pin To Net: Unknown Pin: Pin D6-2
+Add Pin To Net: Unknown Pin: Pin D7-1
+Add Pin To Net: Unknown Pin: Pin D7-2
+Add Pin To Net: Unknown Pin: Pin D8-1
+Add Pin To Net: Unknown Pin: Pin D8-2
+Add Pin To Net: Unknown Pin: Pin D11-1
+Add Pin To Net: Unknown Pin: Pin D11-2
+Add Pin To Net: Unknown Pin: Pin Dec2MCU-1
+Add Pin To Net: Unknown Pin: Pin Dec2MCU-2
+Add Pin To Net: Unknown Pin: Pin Dec2MCU-3
+Add Pin To Net: Unknown Pin: Pin Dec2MCU-4
+Added Pin To Net: NetName=+5 Pin=DecIn-1
+Added Pin To Net: NetName=+5 Pin=DecIn-2
+Added Pin To Net: NetName=Enc1A Pin=DecIn-3
+Added Pin To Net: NetName=Enc2A Pin=DecIn-4
+Added Pin To Net: NetName=Enc1B Pin=DecIn-5
+Added Pin To Net: NetName=Enc2B Pin=DecIn-6
+Added Pin To Net: NetName=GND Pin=DecIn-7
+Added Pin To Net: NetName=GND Pin=DecIn-8
+Added Pin To Net: NetName=NetAND1_3 Pin=DFF1-2
+Added Pin To Net: NetName=CLK Pin=DFF1-3
+Added Pin To Net: NetName=GND Pin=DFF1-7
+Added Pin To Net: NetName=NetDFF1_9 Pin=DFF1-9
+Added Pin To Net: NetName=CLK Pin=DFF1-11
+Added Pin To Net: NetName=+5 Pin=DFF1-14
+Added Pin To Net: NetName=NetDFF1_9 Pin=DFF2-2
+Added Pin To Net: NetName=CLK Pin=DFF2-3
+Added Pin To Net: NetName=NetDFF2_5 Pin=DFF2-5
+Added Pin To Net: NetName=GND Pin=DFF2-7
+Added Pin To Net: NetName=CLK Pin=DFF2-11
+Added Pin To Net: NetName=NetDFF2_5 Pin=DFF2-12
+Added Pin To Net: NetName=+5 Pin=DFF2-14
+Added Pin To Net: NetName=NetAND1_6 Pin=DFF3-2
+Added Pin To Net: NetName=CLK Pin=DFF3-3
+Added Pin To Net: NetName=GND Pin=DFF3-7
+Added Pin To Net: NetName=NetDFF3_9 Pin=DFF3-9
+Added Pin To Net: NetName=CLK Pin=DFF3-11
+Added Pin To Net: NetName=+5 Pin=DFF3-14
+Added Pin To Net: NetName=NetDFF3_9 Pin=DFF4-2
+Added Pin To Net: NetName=CLK Pin=DFF4-3
+Added Pin To Net: NetName=NetDFF4_5 Pin=DFF4-5
+Added Pin To Net: NetName=GND Pin=DFF4-7
+Added Pin To Net: NetName=CLK Pin=DFF4-11
+Added Pin To Net: NetName=NetDFF4_5 Pin=DFF4-12
+Added Pin To Net: NetName=+5 Pin=DFF4-14
+Added Pin To Net: NetName=NetAND1_8 Pin=DFF6-2
+Added Pin To Net: NetName=CLK Pin=DFF6-3
+Added Pin To Net: NetName=GND Pin=DFF6-7
+Added Pin To Net: NetName=NetDFF6_9 Pin=DFF6-9
+Added Pin To Net: NetName=CLK Pin=DFF6-11
+Added Pin To Net: NetName=+5 Pin=DFF6-14
+Added Pin To Net: NetName=NetDFF6_9 Pin=DFF7-2
+Added Pin To Net: NetName=CLK Pin=DFF7-3
+Added Pin To Net: NetName=NetDFF7_5 Pin=DFF7-5
+Added Pin To Net: NetName=GND Pin=DFF7-7
+Added Pin To Net: NetName=+5 Pin=DFF7-14
+Added Pin To Net: NetName=GND Pin=DFF8-7
+Added Pin To Net: NetName=CLK Pin=DFF8-11
+Added Pin To Net: NetName=NetDFF7_5 Pin=DFF8-12
+Added Pin To Net: NetName=+5 Pin=DFF8-14
+Added Pin To Net: NetName=NetAND1_11 Pin=DFF9-2
+Added Pin To Net: NetName=CLK Pin=DFF9-3
+Added Pin To Net: NetName=GND Pin=DFF9-7
+Added Pin To Net: NetName=NetDFF9_9 Pin=DFF9-9
+Added Pin To Net: NetName=CLK Pin=DFF9-11
+Added Pin To Net: NetName=+5 Pin=DFF9-14
+Added Pin To Net: NetName=NetDFF9_9 Pin=DFF10-2
+Added Pin To Net: NetName=CLK Pin=DFF10-3
+Added Pin To Net: NetName=NetDFF10_5 Pin=DFF10-5
+Added Pin To Net: NetName=GND Pin=DFF10-7
+Added Pin To Net: NetName=CLK Pin=DFF10-11
+Added Pin To Net: NetName=NetDFF10_5 Pin=DFF10-12
+Added Pin To Net: NetName=+5 Pin=DFF10-14
+Added Pin To Net: NetName=CLK Pin=DFF11-3
+Added Pin To Net: NetName=GND Pin=DFF11-7
+Added Pin To Net: NetName=CLK Pin=DFF11-11
+Added Pin To Net: NetName=+5 Pin=DFF11-14
+Added Pin To Net: NetName=CLK Pin=DFF12-3
+Added Pin To Net: NetName=GND Pin=DFF12-7
+Added Pin To Net: NetName=CLK Pin=DFF12-11
+Added Pin To Net: NetName=+5 Pin=DFF12-14
+Added Pin To Net: NetName=CLK Pin=DFF13-3
+Added Pin To Net: NetName=GND Pin=DFF13-7
+Added Pin To Net: NetName=CLK Pin=DFF13-11
+Added Pin To Net: NetName=+5 Pin=DFF13-14
+Added Pin To Net: NetName=CLK Pin=DFF14-3
+Added Pin To Net: NetName=GND Pin=DFF14-7
+Added Pin To Net: NetName=CLK Pin=DFF14-11
+Added Pin To Net: NetName=+5 Pin=DFF14-14
+Added Pin To Net: NetName=CLK Pin=DFF15-3
+Added Pin To Net: NetName=GND Pin=DFF15-7
+Added Pin To Net: NetName=CLK Pin=DFF15-11
+Added Pin To Net: NetName=+5 Pin=DFF15-14
+Added Pin To Net: NetName=CLK Pin=DFF16-3
+Added Pin To Net: NetName=GND Pin=DFF16-7
+Added Pin To Net: NetName=CLK Pin=DFF16-11
+Added Pin To Net: NetName=+5 Pin=DFF16-14
+Added Pin To Net: NetName=CLK Pin=DFF17-3
+Added Pin To Net: NetName=GND Pin=DFF17-7
+Added Pin To Net: NetName=CLK Pin=DFF17-11
+Added Pin To Net: NetName=+5 Pin=DFF17-14
+Added Pin To Net: NetName=CLK Pin=DFF18-3
+Added Pin To Net: NetName=GND Pin=DFF18-7
+Added Pin To Net: NetName=CLK Pin=DFF18-11
+Added Pin To Net: NetName=+5 Pin=DFF18-14
+Add Pin To Net: Unknown Pin: Pin Enc2Dec-1
+Add Pin To Net: Unknown Pin: Pin Enc2Dec-2
+Add Pin To Net: Unknown Pin: Pin Enc2Dec-3
+Add Pin To Net: Unknown Pin: Pin Enc2Dec-4
+Add Pin To Net: Unknown Pin: Pin F1-1
+Add Pin To Net: Unknown Pin: Pin F1-2
+Add Pin To Net: Unknown Pin: Pin F2-1
+Add Pin To Net: Unknown Pin: Pin F2-2
+Add Pin To Net: Unknown Pin: Pin L298-1
+Add Pin To Net: Unknown Pin: Pin L298-2
+Add Pin To Net: Unknown Pin: Pin L298-3
+Add Pin To Net: Unknown Pin: Pin L298-4
+Add Pin To Net: Unknown Pin: Pin L298-5
+Add Pin To Net: Unknown Pin: Pin L298-6
+Add Pin To Net: Unknown Pin: Pin L298-7
+Add Pin To Net: Unknown Pin: Pin L298-8
+Add Pin To Net: Unknown Pin: Pin L298-9
+Add Pin To Net: Unknown Pin: Pin L298-10
+Add Pin To Net: Unknown Pin: Pin L298-11
+Add Pin To Net: Unknown Pin: Pin L298-12
+Add Pin To Net: Unknown Pin: Pin L298-13
+Add Pin To Net: Unknown Pin: Pin L298-14
+Add Pin To Net: Unknown Pin: Pin L298-15
+Add Pin To Net: Unknown Pin: Pin LaserIn-1
+Add Pin To Net: Unknown Pin: Pin LaserIn-2
+Add Pin To Net: Unknown Pin: Pin LSRSW-1
+Add Pin To Net: Unknown Pin: Pin LSRSW-2
+Add Pin To Net: Unknown Pin: Pin MCU-2
+Add Pin To Net: Unknown Pin: Pin MCU-9
+Add Pin To Net: Unknown Pin: Pin MCU-10
+Add Pin To Net: Unknown Pin: Pin MCU-11
+Add Pin To Net: Unknown Pin: Pin MCU-14
+Add Pin To Net: Unknown Pin: Pin MCU-15
+Add Pin To Net: Unknown Pin: Pin MCU-17
+Add Pin To Net: Unknown Pin: Pin MCU-18
+Add Pin To Net: Unknown Pin: Pin MCU-19
+Add Pin To Net: Unknown Pin: Pin MCU-20
+Add Pin To Net: Unknown Pin: Pin MCU-21
+Add Pin To Net: Unknown Pin: Pin MCU-22
+Add Pin To Net: Unknown Pin: Pin MCU-23
+Add Pin To Net: Unknown Pin: Pin MCU-24
+Add Pin To Net: Unknown Pin: Pin MCU-25
+Add Pin To Net: Unknown Pin: Pin MCU-26
+Add Pin To Net: Unknown Pin: Pin MCU-28
+Add Pin To Net: Unknown Pin: Pin MCU-29
+Add Pin To Net: Unknown Pin: Pin MCU-30
+Add Pin To Net: Unknown Pin: Pin Motor-1
+Add Pin To Net: Unknown Pin: Pin Motor-2
+Add Pin To Net: Unknown Pin: Pin Motor-3
+Add Pin To Net: Unknown Pin: Pin Motor-4
+Add Pin To Net: Unknown Pin: Pin Motor-5
+Add Pin To Net: Unknown Pin: Pin Motor-6
+Add Pin To Net: Unknown Pin: Pin Motor-7
+Add Pin To Net: Unknown Pin: Pin Motor-8
+Add Pin To Net: Unknown Pin: Pin Motor-9
+Add Pin To Net: Unknown Pin: Pin Motor-10
+Add Pin To Net: Unknown Pin: Pin Motor-11
+Add Pin To Net: Unknown Pin: Pin Motor-12
+Added Pin To Net: NetName=Enc1B Pin=NOT1-1
+Added Pin To Net: NetName=NetAND1_5 Pin=NOT1-2
+Added Pin To Net: NetName=Enc1A Pin=NOT1-3
+Added Pin To Net: NetName=NetAND1_9 Pin=NOT1-4
+Added Pin To Net: NetName=Enc1A Pin=NOT1-5
+Added Pin To Net: NetName=NetAND1_12 Pin=NOT1-6
+Added Pin To Net: NetName=GND Pin=NOT1-7
+Added Pin To Net: NetName=NetAND1_13 Pin=NOT1-8
+Added Pin To Net: NetName=Enc1B Pin=NOT1-9
+Added Pin To Net: NetName=+5 Pin=NOT1-14
+Added Pin To Net: NetName=Enc2B Pin=NOT2-1
+Added Pin To Net: NetName=Enc2A Pin=NOT2-3
+Added Pin To Net: NetName=Enc2A Pin=NOT2-5
+Added Pin To Net: NetName=GND Pin=NOT2-7
+Added Pin To Net: NetName=Enc2B Pin=NOT2-9
+Added Pin To Net: NetName=+5 Pin=NOT2-14
+Added Pin To Net: NetName=NetAND2_3 Pin=OR1-1
+Added Pin To Net: NetName=NetAND2_6 Pin=OR1-2
+Added Pin To Net: NetName=NetOR1_3 Pin=OR1-3
+Added Pin To Net: NetName=NetAND2_8 Pin=OR1-4
+Added Pin To Net: NetName=NetAND2_11 Pin=OR1-5
+Added Pin To Net: NetName=NetOR1_6 Pin=OR1-6
+Added Pin To Net: NetName=GND Pin=OR1-7
+Added Pin To Net: NetName=NetOR1_8 Pin=OR1-8
+Added Pin To Net: NetName=NetAND3_3 Pin=OR1-9
+Added Pin To Net: NetName=NetAND3_6 Pin=OR1-10
+Added Pin To Net: NetName=NetOR1_11 Pin=OR1-11
+Added Pin To Net: NetName=NetAND3_8 Pin=OR1-12
+Added Pin To Net: NetName=NetAND3_11 Pin=OR1-13
+Added Pin To Net: NetName=+5 Pin=OR1-14
+Added Pin To Net: NetName=NetOR1_3 Pin=OR2-1
+Added Pin To Net: NetName=NetOR1_6 Pin=OR2-2
+Added Pin To Net: NetName=NetOR2_3 Pin=OR2-3
+Added Pin To Net: NetName=NetOR1_8 Pin=OR2-4
+Added Pin To Net: NetName=NetOR1_11 Pin=OR2-5
+Added Pin To Net: NetName=NetOR2_6 Pin=OR2-6
+Added Pin To Net: NetName=GND Pin=OR2-7
+Added Pin To Net: NetName=+5 Pin=OR2-14
+Added Pin To Net: NetName=GND Pin=OR3-7
+Added Pin To Net: NetName=+5 Pin=OR3-14
+Add Pin To Net: Unknown Pin: Pin Photovolt-1
+Add Pin To Net: Unknown Pin: Pin Photovolt-2
+Add Pin To Net: Unknown Pin: Pin Photovolt-3
+Add Pin To Net: Unknown Pin: Pin Photovolt-4
+Add Pin To Net: Unknown Pin: Pin R1-1
+Add Pin To Net: Unknown Pin: Pin R1-2
+Add Pin To Net: Unknown Pin: Pin R2-1
+Add Pin To Net: Unknown Pin: Pin R2-2
+Add Pin To Net: Unknown Pin: Pin R3-1
+Add Pin To Net: Unknown Pin: Pin R3-2
+Add Pin To Net: Unknown Pin: Pin R4-1
+Add Pin To Net: Unknown Pin: Pin R4-2
+Added Pin To Net: NetName=NetOR2_3 Pin=R5-1
+Added Pin To Net: NetName=NetOR2_6 Pin=R6-1
+Added Pin To Net: NetName=A_HIGH_M1 Pin=AND2-1
+Added Pin To Net: NetName=A_HIGH_M1 Pin=AND3-12
+Added Pin To Net: NetName=A_HIGH_M1 Pin=DFF3-5
+Added Pin To Net: NetName=A_HIGH_M1 Pin=DFF3-12
+Added Net: Name=A_HIGH_M1
+Added Pin To Net: NetName=A_HIGH_M2 Pin=AND5-1
+Added Pin To Net: NetName=A_HIGH_M2 Pin=AND6-12
+Added Pin To Net: NetName=A_HIGH_M2 Pin=DFF13-5
+Added Pin To Net: NetName=A_HIGH_M2 Pin=DFF13-12
+Added Net: Name=A_HIGH_M2
+Added Pin To Net: NetName=A_HIGH_PREV_M1 Pin=AND2-5
+Added Pin To Net: NetName=A_HIGH_PREV_M1 Pin=AND3-2
+Added Pin To Net: NetName=A_HIGH_PREV_M1 Pin=DFF4-9
+Added Net: Name=A_HIGH_PREV_M1
+Added Pin To Net: NetName=A_HIGH_PREV_M2 Pin=AND5-5
+Added Pin To Net: NetName=A_HIGH_PREV_M2 Pin=AND6-2
+Added Pin To Net: NetName=A_HIGH_PREV_M2 Pin=DFF14-9
+Added Net: Name=A_HIGH_PREV_M2
+Added Pin To Net: NetName=AB_HIGH_M1 Pin=AND2-12
+Added Pin To Net: NetName=AB_HIGH_M1 Pin=AND3-1
+Added Pin To Net: NetName=AB_HIGH_M1 Pin=DFF1-5
+Added Pin To Net: NetName=AB_HIGH_M1 Pin=DFF1-12
+Added Net: Name=AB_HIGH_M1
+Added Pin To Net: NetName=AB_HIGH_M2 Pin=AND5-12
+Added Pin To Net: NetName=AB_HIGH_M2 Pin=AND6-1
+Added Pin To Net: NetName=AB_HIGH_M2 Pin=DFF11-5
+Added Pin To Net: NetName=AB_HIGH_M2 Pin=DFF11-12
+Added Net: Name=AB_HIGH_M2
+Added Pin To Net: NetName=AB_HIGH_PREV_M1 Pin=AND2-2
+Added Pin To Net: NetName=AB_HIGH_PREV_M1 Pin=AND3-5
+Added Pin To Net: NetName=AB_HIGH_PREV_M1 Pin=DFF2-9
+Added Net: Name=AB_HIGH_PREV_M1
+Added Pin To Net: NetName=AB_HIGH_PREV_M2 Pin=AND5-2
+Added Pin To Net: NetName=AB_HIGH_PREV_M2 Pin=AND6-5
+Added Pin To Net: NetName=AB_HIGH_PREV_M2 Pin=DFF12-9
+Added Net: Name=AB_HIGH_PREV_M2
+Added Pin To Net: NetName=AB_LOW_M1 Pin=AND2-4
+Added Pin To Net: NetName=AB_LOW_M1 Pin=AND3-9
+Added Pin To Net: NetName=AB_LOW_M1 Pin=DFF9-5
+Added Pin To Net: NetName=AB_LOW_M1 Pin=DFF9-12
+Added Net: Name=AB_LOW_M1
+Added Pin To Net: NetName=AB_LOW_M2 Pin=AND5-4
+Added Pin To Net: NetName=AB_LOW_M2 Pin=AND6-9
+Added Pin To Net: NetName=AB_LOW_M2 Pin=DFF17-5
+Added Pin To Net: NetName=AB_LOW_M2 Pin=DFF17-12
+Added Net: Name=AB_LOW_M2
+Added Pin To Net: NetName=AB_LOW_PREV_M1 Pin=AND2-10
+Added Pin To Net: NetName=AB_LOW_PREV_M1 Pin=AND3-13
+Added Pin To Net: NetName=AB_LOW_PREV_M1 Pin=DFF10-9
+Added Net: Name=AB_LOW_PREV_M1
+Added Pin To Net: NetName=AB_LOW_PREV_M2 Pin=AND5-10
+Added Pin To Net: NetName=AB_LOW_PREV_M2 Pin=AND6-13
+Added Pin To Net: NetName=AB_LOW_PREV_M2 Pin=DFF18-9
+Added Net: Name=AB_LOW_PREV_M2
+Added Pin To Net: NetName=B_HIGH_M1 Pin=AND2-9
+Added Pin To Net: NetName=B_HIGH_M1 Pin=AND3-4
+Added Pin To Net: NetName=B_HIGH_M1 Pin=DFF6-5
+Added Pin To Net: NetName=B_HIGH_M1 Pin=DFF6-12
+Added Net: Name=B_HIGH_M1
+Added Pin To Net: NetName=B_HIGH_M2 Pin=AND5-9
+Added Pin To Net: NetName=B_HIGH_M2 Pin=AND6-4
+Added Pin To Net: NetName=B_HIGH_M2 Pin=DFF15-5
+Added Pin To Net: NetName=B_HIGH_M2 Pin=DFF15-12
+Added Net: Name=B_HIGH_M2
+Added Pin To Net: NetName=B_HIGH_PREV_M1 Pin=AND2-13
+Added Pin To Net: NetName=B_HIGH_PREV_M1 Pin=AND3-10
+Added Pin To Net: NetName=B_HIGH_PREV_M1 Pin=DFF8-9
+Added Net: Name=B_HIGH_PREV_M1
+Added Pin To Net: NetName=B_HIGH_PREV_M2 Pin=AND5-13
+Added Pin To Net: NetName=B_HIGH_PREV_M2 Pin=AND6-10
+Added Pin To Net: NetName=B_HIGH_PREV_M2 Pin=DFF16-9
+Added Net: Name=B_HIGH_PREV_M2
+Added Pin To Net: NetName=CCW_PULSE_M1 Pin=C7-1
+Added Pin To Net: NetName=CCW_PULSE_M1 Pin=DecOut-3
+Added Pin To Net: NetName=CCW_PULSE_M1 Pin=R6-2
+Added Net: Name=CCW_PULSE_M1
+Added Pin To Net: NetName=CCW_PULSE_M2 Pin=C9-1
+Added Pin To Net: NetName=CCW_PULSE_M2 Pin=DecOut-4
+Added Pin To Net: NetName=CCW_PULSE_M2 Pin=R8-2
+Added Net: Name=CCW_PULSE_M2
+Added Pin To Net: NetName=CW_PULSE_M1 Pin=C6-1
+Added Pin To Net: NetName=CW_PULSE_M1 Pin=DecOut-1
+Added Pin To Net: NetName=CW_PULSE_M1 Pin=R5-2
+Added Net: Name=CW_PULSE_M1
+Added Pin To Net: NetName=CW_PULSE_M2 Pin=C8-1
+Added Pin To Net: NetName=CW_PULSE_M2 Pin=DecOut-2
+Added Pin To Net: NetName=CW_PULSE_M2 Pin=R7-2
+Added Net: Name=CW_PULSE_M2
+Added Pin To Net: NetName=NetAND4_3 Pin=AND4-3
+Added Pin To Net: NetName=NetAND4_3 Pin=DFF11-2
+Added Net: Name=NetAND4_3
+Added Pin To Net: NetName=NetAND4_5 Pin=AND4-5
+Added Pin To Net: NetName=NetAND4_5 Pin=NOT2-2
+Added Net: Name=NetAND4_5
+Added Pin To Net: NetName=NetAND4_6 Pin=AND4-6
+Added Pin To Net: NetName=NetAND4_6 Pin=DFF13-2
+Added Net: Name=NetAND4_6
+Added Pin To Net: NetName=NetAND4_8 Pin=AND4-8
+Added Pin To Net: NetName=NetAND4_8 Pin=DFF15-2
+Added Net: Name=NetAND4_8
+Added Pin To Net: NetName=NetAND4_9 Pin=AND4-9
+Added Pin To Net: NetName=NetAND4_9 Pin=NOT2-4
+Added Net: Name=NetAND4_9
+Added Pin To Net: NetName=NetAND4_11 Pin=AND4-11
+Added Pin To Net: NetName=NetAND4_11 Pin=DFF17-2
+Added Net: Name=NetAND4_11
+Added Pin To Net: NetName=NetAND4_12 Pin=AND4-12
+Added Pin To Net: NetName=NetAND4_12 Pin=NOT2-6
+Added Net: Name=NetAND4_12
+Added Pin To Net: NetName=NetAND4_13 Pin=AND4-13
+Added Pin To Net: NetName=NetAND4_13 Pin=NOT2-8
+Added Net: Name=NetAND4_13
+Added Pin To Net: NetName=NetAND5_3 Pin=AND5-3
+Added Pin To Net: NetName=NetAND5_3 Pin=OR3-1
+Added Net: Name=NetAND5_3
+Added Pin To Net: NetName=NetAND5_6 Pin=AND5-6
+Added Pin To Net: NetName=NetAND5_6 Pin=OR3-2
+Added Net: Name=NetAND5_6
+Added Pin To Net: NetName=NetAND5_8 Pin=AND5-8
+Added Pin To Net: NetName=NetAND5_8 Pin=OR3-4
+Added Net: Name=NetAND5_8
+Added Pin To Net: NetName=NetAND5_11 Pin=AND5-11
+Added Pin To Net: NetName=NetAND5_11 Pin=OR3-5
+Added Net: Name=NetAND5_11
+Added Pin To Net: NetName=NetAND6_3 Pin=AND6-3
+Added Pin To Net: NetName=NetAND6_3 Pin=OR3-9
+Added Net: Name=NetAND6_3
+Added Pin To Net: NetName=NetAND6_6 Pin=AND6-6
+Added Pin To Net: NetName=NetAND6_6 Pin=OR3-10
+Added Net: Name=NetAND6_6
+Added Pin To Net: NetName=NetAND6_8 Pin=AND6-8
+Added Pin To Net: NetName=NetAND6_8 Pin=OR3-12
+Added Net: Name=NetAND6_8
+Added Pin To Net: NetName=NetAND6_11 Pin=AND6-11
+Added Pin To Net: NetName=NetAND6_11 Pin=OR3-13
+Added Net: Name=NetAND6_11
+Added Pin To Net: NetName=NetDFF11_9 Pin=DFF11-9
+Added Pin To Net: NetName=NetDFF11_9 Pin=DFF12-2
+Added Net: Name=NetDFF11_9
+Added Pin To Net: NetName=NetDFF12_5 Pin=DFF12-5
+Added Pin To Net: NetName=NetDFF12_5 Pin=DFF12-12
+Added Net: Name=NetDFF12_5
+Added Pin To Net: NetName=NetDFF13_9 Pin=DFF13-9
+Added Pin To Net: NetName=NetDFF13_9 Pin=DFF14-2
+Added Net: Name=NetDFF13_9
+Added Pin To Net: NetName=NetDFF14_5 Pin=DFF14-5
+Added Pin To Net: NetName=NetDFF14_5 Pin=DFF14-12
+Added Net: Name=NetDFF14_5
+Added Pin To Net: NetName=NetDFF15_9 Pin=DFF15-9
+Added Pin To Net: NetName=NetDFF15_9 Pin=DFF16-2
+Added Net: Name=NetDFF15_9
+Added Pin To Net: NetName=NetDFF16_5 Pin=DFF16-5
+Added Pin To Net: NetName=NetDFF16_5 Pin=DFF16-12
+Added Net: Name=NetDFF16_5
+Added Pin To Net: NetName=NetDFF17_9 Pin=DFF17-9
+Added Pin To Net: NetName=NetDFF17_9 Pin=DFF18-2
+Added Net: Name=NetDFF17_9
+Added Pin To Net: NetName=NetDFF18_5 Pin=DFF18-5
+Added Pin To Net: NetName=NetDFF18_5 Pin=DFF18-12
+Added Net: Name=NetDFF18_5
+Added Pin To Net: NetName=NetOR2_8 Pin=OR2-8
+Added Pin To Net: NetName=NetOR2_8 Pin=R7-1
+Added Net: Name=NetOR2_8
+Added Pin To Net: NetName=NetOR2_9 Pin=OR2-9
+Added Pin To Net: NetName=NetOR2_9 Pin=OR3-3
+Added Net: Name=NetOR2_9
+Added Pin To Net: NetName=NetOR2_10 Pin=OR2-10
+Added Pin To Net: NetName=NetOR2_10 Pin=OR3-6
+Added Net: Name=NetOR2_10
+Added Pin To Net: NetName=NetOR2_11 Pin=OR2-11
+Added Pin To Net: NetName=NetOR2_11 Pin=R8-1
+Added Net: Name=NetOR2_11
+Added Pin To Net: NetName=NetOR2_12 Pin=OR2-12
+Added Pin To Net: NetName=NetOR2_12 Pin=OR3-8
+Added Net: Name=NetOR2_12
+Added Pin To Net: NetName=NetOR2_13 Pin=OR2-13
+Added Pin To Net: NetName=NetOR2_13 Pin=OR3-11
+Added Net: Name=NetOR2_13
+Added Class: Name=DecoderCircuit_M1
+Added Class: Name=DecoderCircuit_M2
+Add Class Member: Failed to add class member : Component 5V_LED G-LED
+Add Class Member: Failed to add class member : Component 5VReg Q-VReg5
+Add Class Member: Failed to add class member : Component 12V_LED G-LED
+Add Class Member: Failed to add class member : Component 12VIN C-Pwr
+Add Class Member: Failed to add class member : Component 12VReg Q-VReg12
+Add Class Member: Failed to add class member : Component 12VSW Term-Block 2
+Add Class Member: Failed to add class member : Component 18VIN Term-Block 2
+Add Class Member: Failed to add class member : Component 18VSW Term-Block 2
+Add Class Member: Failed to add class member : Component AccPWR C-Hdr2x2
+Add Class Member: Failed to add class member : Component BT1 P-Btn
+Add Class Member: Failed to add class member : Component BT2 P-Btn
+Add Class Member: Failed to add class member : Component BT3 P-Btn
+Add Class Member: Failed to add class member : Component C1 G-Cap
+Add Class Member: Failed to add class member : Component C2 G-Cap
+Add Class Member: Failed to add class member : Component C3 G-Cap
+Add Class Member: Failed to add class member : Component C4 G-Cap
+Add Class Member: Failed to add class member : Component C5 G-Cap
+Add Class Member: Failed to add class member : Component D1 1N4148
+Add Class Member: Failed to add class member : Component D2 1N4148
+Add Class Member: Failed to add class member : Component D3 1N4148
+Add Class Member: Failed to add class member : Component D4 1N4148
+Add Class Member: Failed to add class member : Component D5 1N4148
+Add Class Member: Failed to add class member : Component D6 1N4148
+Add Class Member: Failed to add class member : Component D7 1N4148
+Add Class Member: Failed to add class member : Component D8 1N4148
+Add Class Member: Failed to add class member : Component D11 1N4005
+Add Class Member: Failed to add class member : Component Dec2MCU C-Hdr2x2
+Add Class Member: Failed to add class member : Component Enc2Dec C-Hdr2x2
+Add Class Member: Failed to add class member : Component F1 0ZCG0150BF2C
+Add Class Member: Failed to add class member : Component F2 0ZCG0150BF2C
+Add Class Member: Failed to add class member : Component L298 Q-LN298HS
+Add Class Member: Failed to add class member : Component LaserIn Term-Block 2
+Add Class Member: Failed to add class member : Component LSRSW Term-Block 2
+Add Class Member: Failed to add class member : Component MCU ESP32-DEVKIT-V1
+Add Class Member: Failed to add class member : Component Motor C-Hdr2x6
+Add Class Member: Failed to add class member : Component Photovolt C-Hdr2x2
+Add Class Member: Failed to add class member : Component R1 G-Res
+Add Class Member: Failed to add class member : Component R2 G-Res
+Add Class Member: Failed to add class member : Component R3 G-Res
+Add Class Member: Failed to add class member : Component R4 G-Res

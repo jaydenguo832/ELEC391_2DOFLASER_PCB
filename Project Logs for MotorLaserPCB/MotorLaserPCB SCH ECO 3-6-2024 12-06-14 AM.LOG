@@ -1,0 +1,13 @@
+Change Component Designator: OldDesignator=18VBatteryInput NewDesignator=18VIN
+Change Component Designator: OldDesignator=Accessory NewDesignator=ACCS
+Change Component Designator: OldDesignator=BarrelInput NewDesignator=12VIN
+Change Component Designator: OldDesignator=EncoderInput NewDesignator=EncIn
+Change Component Designator: OldDesignator=LaserInput NewDesignator=LaserIn
+Change Component Designator: OldDesignator=LED1 NewDesignator=5V_LED
+Change Component Designator: OldDesignator=LED2 NewDesignator=12V_LED
+Change Component Designator: OldDesignator=Motor1Out NewDesignator=M1Out
+Change Component Designator: OldDesignator=Motor2Out NewDesignator=M2Out
+Change Component Designator: OldDesignator=MotorDriver NewDesignator=L298
+Change Component Designator: OldDesignator=SW1 NewDesignator=12VSW
+Change Component Designator: OldDesignator=SW2 NewDesignator=18VSW
+Change Component Designator: OldDesignator=SW3 NewDesignator=LSRSW

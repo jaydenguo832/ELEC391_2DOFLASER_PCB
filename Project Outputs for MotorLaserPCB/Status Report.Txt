@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [MotorLaserPCB.PrjPcb]
+   Generated File[MotorLaserPCB.TXT]
+   Generated File[MotorLaserPCB.LDP]
+   Generated File[MotorLaserPCB.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 11:53:58 PM On 3/6/2024

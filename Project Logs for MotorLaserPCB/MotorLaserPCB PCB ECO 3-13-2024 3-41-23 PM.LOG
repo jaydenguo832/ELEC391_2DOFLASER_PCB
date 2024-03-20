@@ -1,0 +1,39 @@
+Removed Pin From Net: NetName=+5 Pin=ACCS-1
+Removed Pin From Net: NetName=GND Pin=ACCS-2
+Removed Pin From Net: NetName=+5 Pin=ACCS-3
+Removed Pin From Net: NetName=GND Pin=ACCS-4
+Removed Pin From Net: NetName=+5 Pin=ACCS-5
+Removed Pin From Net: NetName=GND Pin=ACCS-6
+Removed Pin From Net: NetName=+5 Pin=ACCS-7
+Removed Pin From Net: NetName=GND Pin=ACCS-8
+Removed Pin From Net: NetName=Enc2A Pin=MCU-21
+Removed Pin From Net: NetName=Enc2B Pin=MCU-22
+Removed Pin From Net: NetName=Enc1B Pin=MCU-23
+Removed Pin From Net: NetName=Enc1A Pin=MCU-24
+Removed Member From Class: ClassName=MotorLaserPCB Member=ACCS
+Added Component: Designator=Dec2MCU(HDR2X2_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Enc2Dec(HDR2X2_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=Enc1A Pin=Enc2Dec-1
+Added Pin To Net: NetName=Enc2A Pin=Enc2Dec-2
+Added Pin To Net: NetName=Enc1B Pin=Enc2Dec-3
+Added Pin To Net: NetName=Enc2B Pin=Enc2Dec-4
+Added Pin To Net: NetName=Dec1CCW Pin=Dec2MCU-3
+Added Pin To Net: NetName=Dec1CCW Pin=MCU-24
+Added Net: Name=Dec1CCW
+Added Pin To Net: NetName=Dec1CW Pin=Dec2MCU-1
+Added Pin To Net: NetName=Dec1CW Pin=MCU-23
+Added Net: Name=Dec1CW
+Added Pin To Net: NetName=Dec2CCW Pin=Dec2MCU-4
+Added Pin To Net: NetName=Dec2CCW Pin=MCU-22
+Added Net: Name=Dec2CCW
+Added Pin To Net: NetName=Dec2CW Pin=Dec2MCU-2
+Added Pin To Net: NetName=Dec2CW Pin=MCU-21
+Added Net: Name=Dec2CW
+Added Member To Class: ClassName=MotorLaserPCB Member=Component Dec2MCU C-Hdr2x2
+Added Member To Class: ClassName=MotorLaserPCB Member=Component Enc2Dec C-Hdr2x2

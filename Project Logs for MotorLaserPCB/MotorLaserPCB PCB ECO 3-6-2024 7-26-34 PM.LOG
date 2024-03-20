@@ -1,0 +1,6 @@
+Removed Pin From Net: NetName=Enc1A Pin=MCU-21
+Removed Pin From Net: NetName=Enc1B Pin=MCU-22
+Change Component Designator: OldDesignator=LED5 NewDesignator=5V_LED
+Change Component Designator: OldDesignator=LED12 NewDesignator=12V_LED
+Added Pin To Net: NetName=Enc1B Pin=MCU-21
+Added Pin To Net: NetName=Enc1A Pin=MCU-22

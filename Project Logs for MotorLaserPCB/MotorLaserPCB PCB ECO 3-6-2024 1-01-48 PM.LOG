@@ -1,0 +1,47 @@
+Removed Pin From Net: NetName=Enc1A Pin=EncIn-1
+Removed Pin From Net: NetName=Enc2A Pin=EncIn-2
+Removed Pin From Net: NetName=Enc1B Pin=EncIn-3
+Removed Pin From Net: NetName=Enc2B Pin=EncIn-4
+Removed Pin From Net: NetName=+5 Pin=EncIn-5
+Removed Pin From Net: NetName=+5 Pin=EncIn-6
+Removed Pin From Net: NetName=GND Pin=EncIn-7
+Removed Pin From Net: NetName=GND Pin=EncIn-8
+Removed Pin From Net: NetName=V1- Pin=M1Out-1
+Removed Pin From Net: NetName=V1+ Pin=M1Out-2
+Removed Pin From Net: NetName=V2- Pin=M2Out-1
+Removed Pin From Net: NetName=V2+ Pin=M2Out-2
+Removed Member From Class: ClassName=MotorLaserPCB Member=EncIn
+Removed Member From Class: ClassName=MotorLaserPCB Member=M1Out
+Removed Member From Class: ClassName=MotorLaserPCB Member=M2Out
+Change Component Designator: OldDesignator=SW_12V NewDesignator=12VSW
+Change Component Designator: OldDesignator=SW_18V NewDesignator=18VSW
+Change Component Designator: OldDesignator=SW_LSR NewDesignator=LSRSW
+Added Component: Designator=Motor(HDR2X6_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=V1+ Pin=Motor-1
+Added Pin To Net: NetName=V2+ Pin=Motor-2
+Added Pin To Net: NetName=V1- Pin=Motor-3
+Added Pin To Net: NetName=V2- Pin=Motor-4
+Added Pin To Net: NetName=GND Pin=Motor-5
+Added Pin To Net: NetName=GND Pin=Motor-6
+Added Pin To Net: NetName=+5 Pin=Motor-7
+Added Pin To Net: NetName=+5 Pin=Motor-8
+Added Pin To Net: NetName=Enc1A Pin=Motor-9
+Added Pin To Net: NetName=Enc2A Pin=Motor-10
+Added Pin To Net: NetName=Enc1B Pin=Motor-11
+Added Pin To Net: NetName=Enc2B Pin=Motor-12
+Change Net Name : Old Net Name=Net18VBatteryInput_1 New Net Name=Net18VIN_1
+Change Net Name : Old Net Name=Net18VBatteryInput_2 New Net Name=Net12VIN_3
+Change Net Name : Old Net Name=NetBarrelInput_1 New Net Name=Net12VIN_1
+Change Net Name : Old Net Name=NetF1_1 New Net Name=Net18VSW_2
+Change Net Name : Old Net Name=NetF2_1 New Net Name=Net12VSW_2
+Change Net Name : Old Net Name=NetLaserInput_1 New Net Name=NetLaserIn_1
+Change Net Name : Old Net Name=NetLED1_2 New Net Name=Net5V_LED_2
+Change Net Name : Old Net Name=NetLED2_2 New Net Name=Net12V_LED_2
+Change Net Name : Old Net Name=V1+ New Net Name=M1+
+Change Net Name : Old Net Name=V1- New Net Name=M1-
+Change Net Name : Old Net Name=V2+ New Net Name=M2+
+Change Net Name : Old Net Name=V2- New Net Name=M2-
+Added Member To Class: ClassName=MotorLaserPCB Member=Component Motor C-Hdr2x6

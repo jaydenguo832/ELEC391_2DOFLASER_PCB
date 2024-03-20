@@ -1,0 +1,16 @@
+Change Component Footprint: Designator=C6 Old Footprint=Cap2.54mm_LGE1.0 New Footprint=Cap2.54mm_LGE1.0
+Change Component Footprint: Designator=C7 Old Footprint=Cap2.54mm_LGE1.0 New Footprint=Cap2.54mm_LGE1.0
+Change Component Footprint: Designator=C8 Old Footprint=Cap2.54mm_LGE1.0 New Footprint=Cap2.54mm_LGE1.0
+Change Component Footprint: Designator=C9 Old Footprint=Cap2.54mm_LGE1.0 New Footprint=Cap2.54mm_LGE1.0
+Change Component Footprint: Designator=DFF4 Old Footprint=DIP14_LGE1.0 New Footprint=DIP14_LGE1.0
+Change Component Footprint: Designator=DFF5 Old Footprint=DIP14_LGE1.0 New Footprint=DIP14_LGE1.0
+Change Component Footprint: Designator=DFF6 Old Footprint=DIP14_LGE1.0 New Footprint=DIP14_LGE1.0
+Change Component Footprint: Designator=DFF7 Old Footprint=DIP14_LGE1.0 New Footprint=DIP14_LGE1.0
+Change Component Footprint: Designator=DFF8 Old Footprint=DIP14_LGE1.0 New Footprint=DIP14_LGE1.0
+Change Component Footprint: Designator=R5 Old Footprint=Res10mm_LGE1.0 New Footprint=Res10mm_LGE1.0
+Change Component Footprint: Designator=R6 Old Footprint=Res10mm_LGE1.0 New Footprint=Res10mm_LGE1.0
+Change Component Footprint: Designator=R7 Old Footprint=Res10mm_LGE1.0 New Footprint=Res10mm_LGE1.0
+Change Component Footprint: Designator=R8 Old Footprint=Res10mm_LGE1.0 New Footprint=Res10mm_LGE1.0
+Added Member To Class: ClassName=MainPCB Member=Component Motor C-Hdr2x6
+Added Member To Class: ClassName=MainPCB Member=Component Photovolt C-Hdr2x2
+Added Member To Class: ClassName=MainPCB Member=Component PLD3 ATF16V8B-15PU

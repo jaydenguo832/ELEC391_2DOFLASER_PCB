@@ -1,0 +1,3 @@
+Change Component Designator: OldDesignator=LSRIn NewDesignator=LaserIn
+Add Component: Footprint Not Found 20P3_ATM
+Add Class Member: Failed to add class member : Component PLD ATF16V8B-15PU

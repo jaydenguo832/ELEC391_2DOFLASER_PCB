@@ -1,0 +1,4 @@
+Removed Pin From Net: NetName=Direc2B Pin=MCU-14
+Removed Pin From Net: NetName=Direc2A Pin=MCU-15
+Added Pin To Net: NetName=Direc2A Pin=MCU-14
+Added Pin To Net: NetName=Direc2B Pin=MCU-15

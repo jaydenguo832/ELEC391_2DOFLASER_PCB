@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=Direc2B Pin=MCU-10
+Removed Pin From Net: NetName=Direc2A Pin=MCU-11
+Change Component Designator: OldDesignator=D9 NewDesignator=D11
+Added Pin To Net: NetName=Direc2A Pin=MCU-10
+Added Pin To Net: NetName=Direc2B Pin=MCU-11

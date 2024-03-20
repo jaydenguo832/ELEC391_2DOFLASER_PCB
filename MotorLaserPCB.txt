@@ -1,0 +1,10 @@
+Board Information Report
+Filename     : C:\MyStuff\Uni\3rd_Year\ELEC391\Altium PCB Files\391_Altium_with_Decoder_DB_interface\MotorLaserPCB.PcbDoc
+Date         : 3/18/2024
+Time         : 6:13:13 PM
+Time Elapsed : 00:00:00
+
+General
+    Board Size, 3100milsx3800mils
+    Components on board, 38
+count : 2

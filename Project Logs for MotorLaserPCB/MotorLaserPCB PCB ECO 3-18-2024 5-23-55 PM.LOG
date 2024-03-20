@@ -1,0 +1,79 @@
+Removed Pin From Net: NetName=Laser Pin=MCU-5
+Removed Pin From Net: NetName=Dec2CW Pin=MCU-21
+Removed Pin From Net: NetName=Dec2CCW Pin=MCU-22
+Removed Pin From Net: NetName=Dec1CW Pin=MCU-23
+Removed Pin From Net: NetName=Dec1CCW Pin=MCU-24
+Removed Pin From Net: NetName=Enable1 Pin=MCU-25
+Removed Pin From Net: NetName=Enable2 Pin=MCU-26
+Change Component Footprint: Designator=AccPWR Old Footprint=HDR2X2_LGE1.0 New Footprint=HDR2X2_LGE1.0
+Added Component: Designator=BT1(SPST-2_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BT2(SPST-2_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=BT3(SPST-2_LGE1.0)
+Add component (AddParameter): Name = "ComponentLink1Description"; Value = "Datasheet (ELEC391)"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "ComponentLink1URL"; Value = "http://industrial.panasonic.com/cdbs/www-data/pdf/ATK0000/ATK0000CE11.pdf"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "PackageReference"; Value = "SPST-2"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Published"; Value = "24-Mar-1999"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=Photovolt(HDR2X2_LGE1.0)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=+5 Pin=BT1-1
+Added Pin To Net: NetName=+5 Pin=BT2-1
+Added Pin To Net: NetName=+5 Pin=BT3-1
+Added Pin To Net: NetName=Dec2CW Pin=MCU-17
+Added Pin To Net: NetName=Dec2CCW Pin=MCU-18
+Added Pin To Net: NetName=Dec1CCW Pin=MCU-19
+Added Pin To Net: NetName=Dec1CW Pin=MCU-20
+Added Pin To Net: NetName=Enable2 Pin=MCU-23
+Added Pin To Net: NetName=Laser Pin=MCU-26
+Added Pin To Net: NetName=Enable1 Pin=MCU-28
+Added Pin To Net: NetName=GND Pin=Photovolt-2
+Added Pin To Net: NetName=GND Pin=Photovolt-4
+Added Pin To Net: NetName=Home1 Pin=BT1-2
+Added Pin To Net: NetName=Home1 Pin=MCU-9
+Added Net: Name=Home1
+Added Pin To Net: NetName=Home2 Pin=BT2-2
+Added Pin To Net: NetName=Home2 Pin=MCU-10
+Added Net: Name=Home2
+Added Pin To Net: NetName=Home3 Pin=BT3-2
+Added Pin To Net: NetName=Home3 Pin=MCU-11
+Added Net: Name=Home3
+Added Pin To Net: NetName=IN1 Pin=L298-5
+Added Pin To Net: NetName=IN1 Pin=MCU-25
+Added Net: Name=IN1
+Added Pin To Net: NetName=IN2 Pin=L298-7
+Added Pin To Net: NetName=IN2 Pin=MCU-24
+Added Net: Name=IN2
+Added Pin To Net: NetName=IN3 Pin=L298-10
+Added Pin To Net: NetName=IN3 Pin=MCU-21
+Added Net: Name=IN3
+Added Pin To Net: NetName=IN4 Pin=L298-12
+Added Pin To Net: NetName=IN4 Pin=MCU-22
+Added Net: Name=IN4
+Added Pin To Net: NetName=Photovoltaic1 Pin=MCU-14
+Added Pin To Net: NetName=Photovoltaic1 Pin=Photovolt-1
+Added Net: Name=Photovoltaic1
+Added Pin To Net: NetName=Photovoltaic2 Pin=MCU-15
+Added Pin To Net: NetName=Photovoltaic2 Pin=Photovolt-3
+Added Net: Name=Photovoltaic2
+Added Member To Class: ClassName=MotorLaserPCB Member=Component BT1 P-Btn
+Added Member To Class: ClassName=MotorLaserPCB Member=Component BT2 P-Btn
+Added Member To Class: ClassName=MotorLaserPCB Member=Component BT3 P-Btn
+Added Member To Class: ClassName=MotorLaserPCB Member=Component Photovolt C-Hdr2x2

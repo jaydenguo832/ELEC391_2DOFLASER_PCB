@@ -1,0 +1,8 @@
+Removed Pin From Net: NetName=Enc1B Pin=MCU-21
+Removed Pin From Net: NetName=Enc1A Pin=MCU-22
+Removed Pin From Net: NetName=Enc2B Pin=MCU-23
+Removed Pin From Net: NetName=Enc2A Pin=MCU-24
+Added Pin To Net: NetName=Enc2B Pin=MCU-21
+Added Pin To Net: NetName=Enc2A Pin=MCU-22
+Added Pin To Net: NetName=Enc1B Pin=MCU-23
+Added Pin To Net: NetName=Enc1A Pin=MCU-24
