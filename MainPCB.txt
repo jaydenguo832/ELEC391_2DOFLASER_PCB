@@ -1,10 +1,10 @@
 Board Information Report
 Filename     : C:\MyStuff\Uni\3rd_Year\ELEC391\Altium PCB Files\391_Altium_with_Decoder_DB_interface\MainPCB.PcbDoc
 Date         : 3/19/2024
-Time         : 2:15:40 PM
+Time         : 11:15:49 PM
 Time Elapsed : 00:00:00
 
 General
-    Board Size, 3100milsx4100mils
-    Components on board, 43
+    Board Size, 3925milsx4850mils
+    Components on board, 57
 count : 2
