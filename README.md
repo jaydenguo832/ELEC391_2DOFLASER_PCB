@@ -1,8 +1,8 @@
-# ELEC391 Laser Drawing Robot PCB Design
+# ELEC391 Laser Drawing Robot: PCB Design
 This is a PCB designed for the ELEC391 Laser Drawing Robot final project.
 (insert project photo)
 
-## The PCB RCGs:
+## The RCGs:
 **Requirements:**
 1. The circuit must be capable of DC motor bi-directional and speed control to reflect the laser with the mirrors in any orientation and speed.
 2. The PCB must support two DC motors with encoders operating at 12V.
