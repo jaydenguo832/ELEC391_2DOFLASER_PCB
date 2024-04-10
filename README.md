@@ -1,5 +1,6 @@
 # ELEC391 Laser Drawing Robot PCB Design
-This is a PCB designed for the ELEC391 Laser Drawing Robot final project. 
+This is a PCB designed for the ELEC391 Laser Drawing Robot final project.
+(insert project photo)
 
 ## The PCB RCGs:
 **Requirements:**
@@ -16,4 +17,15 @@ This is a PCB designed for the ELEC391 Laser Drawing Robot final project.
 1. The PCB footprint should be as small as possible to reduce manufacturing costs.
 2. Have a reliable 12V power source that can also be portable to be used in any location.
 3. The system should be modular, and simple to interface such as plug-and-play connections, and provide test points for debugging.
+
+## Key Features
+1. Modular design
+2. Integrated motor driver (L298N)
+3. Dual Power Supply Solution for Power Jack and Battery
+4. 5V and 12V Split Power Planes
+5. Via Test Points
+
+
+
+
 
