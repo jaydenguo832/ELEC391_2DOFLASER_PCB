@@ -7,7 +7,7 @@
 https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/3c2735a0-2163-408a-a3d2-0086cca8f556
 
 ## Project Detail
-The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB using Altium with useful features based on the user's needs determined through RCGs and the electrical demand from the different sub-systems (Digital Circuit, RT Controls, System ID). All the components are selected to satisfy the RCGs and soldered by hand.  
+The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB using Altium with useful features based on the user's needs determined through RCGs and the electrical demand from the different sub-systems (Digital Circuit, RT Controls, System ID). All the components are selected to satisfy the RCGs and soldered by hand. CCI CanadianCircuits manufactured the PCB.
 
 ## PCB Key Features
 1. Modular design
