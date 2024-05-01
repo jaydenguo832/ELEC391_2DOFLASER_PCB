@@ -7,7 +7,7 @@
 https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/3c2735a0-2163-408a-a3d2-0086cca8f556
 
 ## Project Detail
-The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB with useful features based on the user's needs determined through RCGs. 
+The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB using Altium with useful features based on the user's needs determined through RCGs. 
 
 ## PCB Key Features
 1. Modular design
@@ -46,7 +46,6 @@ The ESP32 is chosen for the MCU of the system due to its versatility and process
 <p align="center">
   <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/341f03b1-b7a8-49e0-9d27-7c812146a296" width="200">
 </p>
-
 
 ### L298N Motor Driver
 The L298N motor driver is chosen to satisfy Requirements 1, 2, and Constraint 2 for its integrated dual H-bridge, dual independent motor support, up to 2A per channel, and accessible inputs for speed and direction interface for the MCU. It can handle a supply voltage of up to 46V and a total DC current of up to 4A. In this project’s application, the L298N will be supplied with a maximum of 12V from the power source, 5V for the chip logic, and draws ~600mA for the 12V DC motors. 
