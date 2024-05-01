@@ -74,11 +74,15 @@ The voltage regulators are connected in a cascade to step down the voltage outpu
 
 ## PCB Design
 ### Layout
-This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V polygon and a 5V polygon for the high and low-level components that help to reduce routes, simplify the layout, and the overall footprint to 99.7mm x 123.19mm, satisfying Constraints 1 and 3 and meeting Goal 1.
+This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V polygon and a 5V polygon for the high and low-level components that help to reduce routes, simplify the layout, and the overall footprint to 99.7mm x 123.19mm, satisfying Constraints 1 and 3 and meeting Goal 1. (Red: Top layer, Blue: Bottom layer)
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="400">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="400">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="300">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="300">
+</p>
+
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/b3337917-0a71-4f93-9753-375ea6fd5dfb"  width="300">
 </p>
 
 
