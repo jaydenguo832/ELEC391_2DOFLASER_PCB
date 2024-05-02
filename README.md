@@ -96,6 +96,9 @@ This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V poly
 <p align="center">
   <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/b3337917-0a71-4f93-9753-375ea6fd5dfb"  width="300">
 </p>
+<p align="center">
+  12V and 5V split polygon on the top layer.
+</p>
 
 
 ### Interfacing
