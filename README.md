@@ -1,13 +1,22 @@
 # UBC ELEC391 Laser Drawing Machine: PCB Design
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/8a24239c-525a-424d-a4fa-00b06ef45861" width="700">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/56ebe6e6-a0f5-4987-8362-cf99c41b7c2d" width="900">
 </p>
 
-https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/3c2735a0-2163-408a-a3d2-0086cca8f556
+<p align="center">
+  Project Demo is shown at the end.
+</p>
 
 ## Project Detail
 The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB using Altium with useful features based on the user's needs determined through RCGs and the electrical demand from the different sub-systems (Digital Circuit, RT Controls, System ID). All the components are selected to satisfy the RCGs and soldered by hand.
+
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/598a1ff2-2256-4187-83cb-036b023c169f" width="700">
+</p>
+<p align="center">
+  Designed in Altium.
+</p>
 
 ## PCB Key Features
 1. Modular design
@@ -18,7 +27,7 @@ The project is to build a machine that can rapidly draw with a laser to project 
 6. Via Test Points
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/4d83616e-36e0-4ccf-b9a9-dba3a79ef689" width="500">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/4d83616e-36e0-4ccf-b9a9-dba3a79ef689" width="700">
 </p>
 
 ## The RCGs:
@@ -77,8 +86,9 @@ The voltage regulators are connected in a cascade to step down the voltage outpu
 This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V polygon and a 5V polygon for the high and low-level components that help to reduce routes, simplify the layout, and the overall footprint to 99.7mm x 123.19mm, satisfying Constraints 1 and 3 and meeting Goal 1. (Red: Top layer, Blue: Bottom layer)
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="300">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="300">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="500">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="500">
+  
 </p>
 
 <p align="center">
@@ -89,11 +99,16 @@ This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V poly
 ### Interfacing
 Components are arranged strategically to meet Goal 3 which aims for modularity and ease of interfacing for the user. All connection interfaces are grouped by category and placed on the edges for ease of accessibility. The power input terminal blocks are placed on the right edge, and the motor inputs and push buttons are placed on the left edge, allowing the user to easily interface the modular connection to configure the connections to meet Goal 3.
 
+![02236](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/ba25fb4d-5de0-4187-8d18-81875e7961fb)
+
 ## Schematic
 ![Screenshot 2024-04-30 214637](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/ac2afd80-b05e-4018-aa13-c7777afcd9b6)
 
 
 # Project Demo
+
+https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/3c2735a0-2163-408a-a3d2-0086cca8f556
+
 https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/7eb3b969-6d3f-4a60-a3ef-d48b0aa8dd46
 
 
