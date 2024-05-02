@@ -12,7 +12,7 @@
 The project is to build a machine that can rapidly draw with a laser to project geometric shapes. The system features a custom-designed PCB using Altium with useful features based on the user's needs determined through RCGs and the electrical demand from the different sub-systems (Digital Circuit, RT Controls, System ID). All the components are selected to satisfy the RCGs and soldered by hand.
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/598a1ff2-2256-4187-83cb-036b023c169f" width="700">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/598a1ff2-2256-4187-83cb-036b023c169f" width="600">
 </p>
 <p align="center">
   Designed in Altium.
@@ -27,11 +27,11 @@ The project is to build a machine that can rapidly draw with a laser to project 
 6. Via Test Points
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/4d83616e-36e0-4ccf-b9a9-dba3a79ef689" width="700">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/4d83616e-36e0-4ccf-b9a9-dba3a79ef689" width="600">
 </p>
 
 ## The RCGs:
-The overall system RCGs are what sets the design of the PCB and are an evaluation tool to assess the design.
+The overall system RCGs are what set the design of the PCB and are an evaluation tool to assess the design.
 
 ### Requirements:
 1. The circuit must be capable of DC motor bi-directional and speed control to reflect the laser with the mirrors in any orientation and speed.
@@ -86,8 +86,8 @@ The voltage regulators are connected in a cascade to step down the voltage outpu
 This is a 2-layered design for Vs and GND. The Vs layer is split into a 12V polygon and a 5V polygon for the high and low-level components that help to reduce routes, simplify the layout, and the overall footprint to 99.7mm x 123.19mm, satisfying Constraints 1 and 3 and meeting Goal 1. (Red: Top layer, Blue: Bottom layer)
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="500">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="500">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f4b4eb11-f235-4063-acd0-10521f71f315"  width="400">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/10ff9e9f-375c-4cd7-8ca0-2a087b0e09ef" width="400">
   
 </p>
 
