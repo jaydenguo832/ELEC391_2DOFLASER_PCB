@@ -27,8 +27,9 @@ The project is to build a machine that can rapidly draw with a laser to project 
 6. Via Test Points
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/4d83616e-36e0-4ccf-b9a9-dba3a79ef689" width="600">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/042af582-b21c-4fc1-8a30-3fdc1f617e58" width="600">
 </p>
+
 
 ## The RCGs:
 The overall system RCGs are what set the design of the PCB and are an evaluation tool to assess the design.
@@ -55,12 +56,22 @@ The ESP32 is chosen for the MCU of the system due to its versatility and process
 <p align="center">
   <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/341f03b1-b7a8-49e0-9d27-7c812146a296" width="200">
 </p>
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/c8af5400-3292-43f3-8e43-2e468c81d7ac" width="400">
+</p>
+
 
 ### L298N Motor Driver
 The L298N motor driver is chosen to satisfy Requirements 1, 2, and Constraint 2 for its integrated dual H-bridge, dual independent motor support, up to 2A per channel, and accessible inputs for speed and direction interface for the MCU. It can handle a supply voltage of up to 46V and a total DC current of up to 4A. In this project’s application, the L298N will be supplied with a maximum of 12V from the power source, 5V for the chip logic, and draws ~600mA for the 12V DC motors. 
 
 <p align="center">
-  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/0403be56-feab-4331-974e-60b2a4245d5c" width="200">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/af21e4fd-8452-4297-bc30-685cc81a67d5" width="300">
+</p>
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/2ba12759-304b-489d-a7e0-a57fd5c6b3f4" width="800">
+</p>
+<p align="center">
+  Clamping Diodes (Left), L298N IC (Right)
 </p>
 
 ### Portable and Stationary Power Supply
@@ -72,12 +83,18 @@ The principle of the barrel jack design has an insertion-detection pin that allo
   <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/2c01e2d4-fb3b-4714-8af7-1258686ad827" width="200">
 </p>
 
+
 ### 12V and 5V Regulation
 To meet Constraint 2 of a maximum 12V power supply into the system, voltage regulators are needed to control the amount of voltage and current that runs through the system. The circuit contains the LM7812ACT 12V regulator and the L7805CV 5V regulator chosen for their low cost, and small footprint to satisfy Constraint 3 and Goal 1. 
 
 <p align="center">
   <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/b5c77263-db0f-4864-bbe8-6d70e5ddd382" width="700">
 </p>
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/f5988dfa-2810-4301-b053-e772c05fa2e6" width="300">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/64b006ca-c554-456f-a806-f04548322eff" width="400">
+</p>
+
 
 The voltage regulators are connected in a cascade to step down the voltage output in two stages. The first stage is the 12V output for the DC motors and motor driver, and the second stage is the 5V output for the remaining lower voltage components such as the MCU, laser, and decoder IC. 100nF bypass capacitors are placed nearest to the input and output terminals of the regulators to prevent noise from entering the system by bypassing it to the ground. 
 
@@ -106,9 +123,17 @@ Components are arranged strategically to meet Goal 3 which aims for modularity a
 
 ![02236](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/ba25fb4d-5de0-4187-8d18-81875e7961fb)
 
-## Schematic
-![Screenshot 2024-04-30 214637](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/ac2afd80-b05e-4018-aa13-c7777afcd9b6)
+<p align="center">
+  <img src="https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/53056026-adbe-4bca-aa7e-b0e610004304"  width="900">
+</p>
+<p align="center">
+  Header and Terminal Block Connection Ports for User Interfacing.
+</p>
 
+
+
+## Overall Schematic
+![image](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/d15e1eb0-8e01-41aa-8e57-ba6ba0cfff98)
 
 # Project Demo
 
