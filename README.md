@@ -136,6 +136,7 @@ Components are arranged strategically to meet Goal 3 which aims for modularity a
 ![image](https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/d15e1eb0-8e01-41aa-8e57-ba6ba0cfff98)
 
 # Project Demo
+Demo is shown with the machine running battery power.
 
 https://github.com/jaydenguo832/ELEC391_2DOFLASER_PCB/assets/31781644/3c2735a0-2163-408a-a3d2-0086cca8f556
 
